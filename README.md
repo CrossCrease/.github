@@ -10,6 +10,7 @@ Our long-term goal is to support NHL 15 onwards through individually optimized g
 
 **NHL 24** — PC optimization and multiplayer restoration in development.
   - Online Versus mode already functional
+    
 **NHL 17** — PC optimization and multiplayer restoration in development.
 
 ## Our Goals
