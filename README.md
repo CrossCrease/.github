@@ -2,7 +2,7 @@
 
 **Bringing Hockey Gaming to PC.**
 
-CrossCrease is a community-driven project focused on improving PC compatibility, performance, and online multiplayer support for NHL games.
+CrossCrease is a currently a solo project focused on improving PC compatibility, performance, and adding/restoring online multiplayer support for NHL games on PC.
 
 Our long-term goal is to support NHL 15 onwards through individually optimized game projects, a shared launcher, and (community)-hosted multiplayer services.
 
